@@ -1,1 +1,1 @@
-# Teste de criação de repositório e edição de arquivo. 
+# Teste de criação de repositório e edição de arquivo.  
